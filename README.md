@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Digital Visor](digitalvisor.com)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Github**
 
